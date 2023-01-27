@@ -1,17 +1,19 @@
 # loja de roupas
 ## Requisitos Funcionais:
 ### RF01: Sistema deve listar clientes
-### RF02: listar deve listar produtos
-### RF01: sistema deve listar funcionarios
-### RF01: sistema deve permitir cadastrar, alterar e excluir clientes
-### RF01: sistema deve permitir cadastrar, alterar e excluir produtos
-### RF01: sistema deve permitir cadastrar, alterar e excluir funcionarios
-### RF01: sistema deve permirtir criar categorias
-### RF01: sistema deve permitir criar carrinho de compras
-### RF01: sistema deve permitir 
-### RF01: sistema deve associar os produtos a categoria
-### RF01: sistema deve agregar os valor do carrinho ao valor total com os produtos
-### RF01: sistema deve atualizar o estoque;
+### RF02: sistema deve listar produtos
+### RF03: sistema deve permitir cadastrar clientes
+### RF04: sistema deve permitir editar clientes
+### RF05: sistema deve permitir cadastrar produtos
+### RF06: sistema deve permitir alterar produtos 
+### RF07: sistema deve permitir excluir produtos
+### RF08: sistema deve permitir cadastrar administradores
+### RF09: sistema deve permitir criar carrinho de compras
+### RF10: sistema deve permitir editar carrinho de compras
+### RF11: sistema deve permitir excluir carrinho de compras
+### RF12: sistema deve associar os produtos a categoria
+### RF13: sistema deve agregar os valor do carrinho ao valor total com os produtos
+### RF14: sistema deve atualizar o estoque;
 
 ## Requisitos não-funcionais:
 RNF01:
